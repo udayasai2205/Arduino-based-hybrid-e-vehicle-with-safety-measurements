@@ -10,7 +10,7 @@ Bluetooth Control:
 HC-05 Bluetooth Module: Enables remote control of the vehicle through a smartphone, offering convenience and flexibility.
 Mobile Gyroscope Integration:
 Gyroscopic Control: Implemented to allow intuitive vehicle control through smartphone movements, providing a seamless driving experience.
-4.fire cloud alert system wit gmail api integration:
+
 
 Technologies Used:
 
